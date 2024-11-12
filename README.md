@@ -1,4 +1,4 @@
-# freshnewsfeed
+https://devdiaryaz.github.io/freshnewsfeed/
 
 📰 Новостной портал на React и TypeScript
 
